@@ -1,0 +1,3 @@
+void PrintRef(int* ArrayVlad){
+	
+}
