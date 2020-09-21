@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
 			case 0:{
 				cout << "Exit" << endl;
 				return 0;
-		} 
+		}                      
 		case 1:{
 			cout << " Enterprise arrai: "<< endl;
 			for (int i = 0; i < 5; i++){
@@ -35,6 +35,6 @@ int main(int argc, char** argv) {
 			}
 		}
 	}
-	system("pause");
+	system("pause");	
 	return 0;
 }
