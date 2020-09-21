@@ -1,7 +1,12 @@
 #include <iostream>
+#include "Header.hpp"
+#include "SecondFile.cpp"
+#include "ThirdFile.cpp"
  
 using namespace std;		
-/* run this program using the console pauser or add your own getch, system("pause") or input loop Go!!!!!!!!!!!!!!!!!!!To*/
+void PrintRef(int* ArrayVlad);
+void IncMas();
+void MinusMassiv();
  
 int main(int argc, char** argv) {
 	int Array[5] = {1, 2, 3, 4, 5};
