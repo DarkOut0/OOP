@@ -14,9 +14,9 @@ int main(int argc, char** argv) {
 			case 0:{
 				cout << "Exit" << endl;
 				return 0;
-		}
+		} 
 		case 1:{
-			cout << " Enterprise arrai: "<< endl;
+			cout << " Enterprise arrai:Â "<< endl;
 			for (int i = 0; i < 5; i++){
 				cout << Array[i] << " ";
 			}
