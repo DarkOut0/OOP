@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 			}
 			cout << " " << endl;
 			break;
-		}
+		} 
 		case 2:{
 			cout << "First number - count element | Second number - new Value: ";
 			int numberEL;
